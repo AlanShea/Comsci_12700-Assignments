@@ -1,0 +1,5 @@
+#Name: Alan Q. Shea
+#Email: alan.shea65@myhunter.cuny.edu
+#Date: October 6, 2020
+
+out = ((in1) or not(in2)) and (not(in1) or (in2))

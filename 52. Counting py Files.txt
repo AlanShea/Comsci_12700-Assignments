@@ -1,0 +1,5 @@
+#Name: Alan Q. Shea
+#Email: alan.shea65@myhunter.cuny.edu
+#Date: November 17, 2020
+
+ls *.py | wc -l

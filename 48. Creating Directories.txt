@@ -1,0 +1,15 @@
+#Name: Alan Q. Shea
+#Email: alan.shea65@myhunter.cuny.edu
+#Date: November 10, 2020
+
+mkdir programs
+mkdir files
+
+cd programs
+mkdir python
+mkdir c++
+
+cd ../files
+mkdir pdf
+mkdir csv
+mkdir images

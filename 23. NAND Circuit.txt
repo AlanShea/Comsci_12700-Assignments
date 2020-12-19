@@ -1,0 +1,5 @@
+#Name: Alan Q. Shea
+#Email: alan.shea65@myhunter.cuny.edu
+#Date: October 6, 2020
+
+out = not(in1 and in2)
